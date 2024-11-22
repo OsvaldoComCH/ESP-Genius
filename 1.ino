@@ -1,13 +1,15 @@
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
 #include <ESP8266WebServer.h>
+#include <cstdlib>
 
 #define LedAmarelo 14
 #define LedVerde 12
 #define LedVermelho 13
 
-const char * ssid = "WiFi LAB 219";//Nome da Rede
-const char * password = "WiFiLab219";//Senha
+dotenv::init();
+const char * ssid = "SSID";//Nome da Rede
+const char * password = "SSID_PASSWORD";//Senha
 
 ESP8266WebServer Server(80);
 WiFiClient Client;
