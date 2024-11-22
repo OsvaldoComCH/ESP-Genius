@@ -1,0 +1,108 @@
+{
+    "leaderboard": [
+        {
+            "Nome": "Alice",
+            "Score": 3200
+        },
+        {
+            "Nome": "Bruno",
+            "Score": 1500
+        },
+        {
+            "Nome": "Carla",
+            "Score": 4500
+        },
+        {
+            "Nome": "Daniel",
+            "Score": 200
+        },
+        {
+            "Nome": "Elena",
+            "Score": 850
+        },
+        {
+            "Nome": "Fabio",
+            "Score": 6000
+        },
+        {
+            "Nome": "Gabriela",
+            "Score": 3400
+        },
+        {
+            "Nome": "Henrique",
+            "Score": 780
+        },
+        {
+            "Nome": "Isabel",
+            "Score": 2300
+        },
+        {
+            "Nome": "João",
+            "Score": 100
+        },
+        {
+            "Nome": "Karina",
+            "Score": 5200
+        },
+        {
+            "Nome": "Lúcio",
+            "Score": 920
+        },
+        {
+            "Nome": "Marta",
+            "Score": 3300
+        },
+        {
+            "Nome": "Neto",
+            "Score": 4700
+        },
+        {
+            "Nome": "Olivia",
+            "Score": 300
+        },
+        {
+            "Nome": "Paulo",
+            "Score": 600
+        },
+        {
+            "Nome": "Quiteria",
+            "Score": 4100
+        },
+        {
+            "Nome": "Ricardo",
+            "Score": 740
+        },
+        {
+            "Nome": "Sofia",
+            "Score": 2000
+        },
+        {
+            "Nome": "Tiago",
+            "Score": 9200
+        },
+        {
+            "Nome": "Ursula",
+            "Score": 1100
+        },
+        {
+            "Nome": "Victor",
+            "Score": 3900
+        },
+        {
+            "Nome": "Wanda",
+            "Score": 3700
+        },
+        {
+            "Nome": "Xavier",
+            "Score": 450
+        },
+        {
+            "Nome": "Yasmin",
+            "Score": 2800
+        },
+        {
+            "Nome": "Zé",
+            "Score": 1750
+        }
+    ]
+}

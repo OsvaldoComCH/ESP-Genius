@@ -1,0 +1,94 @@
+body {
+    font-family: '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    background-color: #454a64;
+    padding: 44px;
+    padding-left: 23px;
+}
+.leaderboard {
+    font-size: 1.5em;
+    margin-left:50px;
+    margin-right: 130px;
+    background-color: #FFF;
+    height: 500px;
+    width: 250px;
+    padding-top:10px;
+    text-align: center;
+    border-radius: 25px;
+    font-family: 'Alata', sans-serif;
+    border: 6px solid black;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #FFF;
+    border-radius: 25px;
+    padding-bottom: 20px;
+    width: 570;
+    height: 520;
+    border: 6px solid black;
+}
+.winstreak {
+    font-size: 1.5em;
+    margin-top: 20px; 
+    font-family: 'Alata', sans-serif;
+}
+input {
+    padding: 10px;
+    margin: 10px;
+    font-size: 16px;
+    width: 200px; 
+    font-family: 'Alata', sans-serif;
+}
+.botoes-container {
+    display: flex; 
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    
+}
+.botao {
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    transition: background-color 0.25s ease;
+    box-shadow: inset 0 0 0 3px black;
+    font-family: 'Alata', sans-serif;
+    
+}
+.nametag {
+    font-size: 30px;
+    font-family: 'Alata', sans-serif;
+}
+.gamename { 
+    font-size: 48px;
+}
+.logo {
+    width:250px;
+    height:140.625px;
+}
+#verde { background-color: #0CD108; color: #000; }
+#verde:hover { background-color: #75FA69 !important; }
+#vermelho { background-color: #D10808; }
+#vermelho:hover { background-color: #FA6969 !important; }
+#amarelo { background-color: #C1D108; color: black; }
+#amarelo:hover { background-color: #F7FA69 !important; }
+.leaderboard-data {
+    font-size: 0.75em;
+    padding-top:5px;
+    text-align: center;
+    font-family: 'Alata', sans-serif;
+}
